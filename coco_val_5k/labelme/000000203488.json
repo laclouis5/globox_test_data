@@ -1,0 +1,1 @@
+{"imagePath": "000000203488.jpg", "imageWidth": 640, "imageHeight": 480, "imageData": null, "shapes": [{"label": "parking meter", "points": [[420.67, 194.91], [501.57000000000005, 384.75]], "shape_type": "rectangle"}, {"label": "bench", "points": [[472.69, 323.23], [640.0, 479.66]], "shape_type": "rectangle"}]}

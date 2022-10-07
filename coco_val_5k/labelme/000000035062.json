@@ -1,0 +1,1 @@
+{"imagePath": "000000035062.jpg", "imageWidth": 425, "imageHeight": 640, "imageData": null, "shapes": [{"label": "bed", "points": [[0.0, 58.15], [423.21, 640.0]], "shape_type": "rectangle"}, {"label": "person", "points": [[155.75, 68.69], [199.91, 106.91]], "shape_type": "rectangle"}]}

@@ -1,0 +1,1 @@
+{"imagePath": "000000566758.jpg", "imageWidth": 640, "imageHeight": 480, "imageData": null, "shapes": [{"label": "car", "points": [[538.82, 177.32], [633.1700000000001, 227.19]], "shape_type": "rectangle"}, {"label": "bus", "points": [[31.35, 106.49], [527.57, 351.89]], "shape_type": "rectangle"}]}

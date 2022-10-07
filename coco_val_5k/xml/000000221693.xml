@@ -1,0 +1,1 @@
+<annotation><filename>000000221693.jpg</filename><size><width>640</width><height>426</height></size><object><name>dog</name><bndbox><xmin>73.15</xmin><ymin>17.21</ymin><xmax>525.83</xmax><ymax>420.84</ymax></bndbox></object><object><name>frisbee</name><bndbox><xmin>441.32</xmin><ymin>248.01</ymin><xmax>598.31</xmax><ymax>385.86</ymax></bndbox></object></annotation>

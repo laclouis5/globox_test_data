@@ -1,0 +1,1 @@
+<annotation><filename>000000225946.jpg</filename><size><width>640</width><height>463</height></size><object><name>train</name><bndbox><xmin>182.98</xmin><ymin>159.5</ymin><xmax>509.53999999999996</xmax><ymax>273.83</ymax></bndbox></object><object><name>stop sign</name><bndbox><xmin>67.17</xmin><ymin>204.4</ymin><xmax>99.09</xmax><ymax>258.8</ymax></bndbox></object></annotation>

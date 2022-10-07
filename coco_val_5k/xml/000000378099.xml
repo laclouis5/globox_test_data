@@ -1,0 +1,1 @@
+<annotation><filename>000000378099.jpg</filename><size><width>640</width><height>337</height></size><object><name>mouse</name><bndbox><xmin>519.51</xmin><ymin>153.73</ymin><xmax>609.63</xmax><ymax>277.93</ymax></bndbox></object><object><name>keyboard</name><bndbox><xmin>31.81</xmin><ymin>73.98</ymin><xmax>534.66</xmax><ymax>251.95</ymax></bndbox></object></annotation>

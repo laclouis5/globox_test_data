@@ -1,0 +1,1 @@
+<annotation><filename>000000060052.jpg</filename><size><width>640</width><height>427</height></size><object><name>umbrella</name><bndbox><xmin>20.06</xmin><ymin>1.05</ymin><xmax>640.0</xmax><ymax>421.36</ymax></bndbox></object><object><name>person</name><bndbox><xmin>0.0</xmin><ymin>0.48</ymin><xmax>393.34</xmax><ymax>422.67</ymax></bndbox></object></annotation>

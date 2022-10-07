@@ -1,0 +1,1 @@
+{"imagePath": "000000108026.jpg", "imageWidth": 640, "imageHeight": 428, "imageData": null, "shapes": [{"label": "person", "points": [[111.32, 0.0], [640.0, 423.2]], "shape_type": "rectangle"}, {"label": "mouse", "points": [[85.91, 123.18], [241.17, 167.49]], "shape_type": "rectangle"}, {"label": "keyboard", "points": [[0.0, 167.31], [252.42, 428.0]], "shape_type": "rectangle"}]}

@@ -1,0 +1,1 @@
+<annotation><filename>000000084431.jpg</filename><size><width>361</width><height>640</height></size><object><name>tv</name><bndbox><xmin>86.59</xmin><ymin>70.54</ymin><xmax>250.88</xmax><ymax>193.5</ymax></bndbox></object><object><name>pizza</name><bndbox><xmin>20.13</xmin><ymin>257.44</ymin><xmax>325.03</xmax><ymax>540.76</ymax></bndbox></object></annotation>

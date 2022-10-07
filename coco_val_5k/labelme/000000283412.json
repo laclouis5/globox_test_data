@@ -1,0 +1,1 @@
+{"imagePath": "000000283412.jpg", "imageWidth": 640, "imageHeight": 427, "imageData": null, "shapes": [{"label": "dog", "points": [[1.73, 2.44], [440.8, 418.13]], "shape_type": "rectangle"}, {"label": "cup", "points": [[0.0, 283.84], [133.7, 427.0]], "shape_type": "rectangle"}, {"label": "bed", "points": [[427.0, 99.82], [637.73, 262.85]], "shape_type": "rectangle"}]}

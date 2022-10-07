@@ -1,0 +1,1 @@
+{"imagePath": "000000360393.jpg", "imageWidth": 640, "imageHeight": 427, "imageData": null, "shapes": [{"label": "pizza", "points": [[64.61, 62.33], [614.76, 383.34]], "shape_type": "rectangle"}, {"label": "bowl", "points": [[502.8, 263.88], [640.0, 427.0]], "shape_type": "rectangle"}, {"label": "bowl", "points": [[579.31, 0.0], [640.0, 180.47]], "shape_type": "rectangle"}]}

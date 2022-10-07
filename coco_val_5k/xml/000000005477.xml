@@ -1,0 +1,1 @@
+<annotation><filename>000000005477.jpg</filename><size><width>640</width><height>349</height></size><object><name>airplane</name><bndbox><xmin>9.43</xmin><ymin>105.72</ymin><xmax>631.1899999999999</xmax><ymax>288.87</ymax></bndbox></object><object><name>airplane</name><bndbox><xmin>51.4</xmin><ymin>249.06</ymin><xmax>301.84</xmax><ymax>277.15</ymax></bndbox></object></annotation>

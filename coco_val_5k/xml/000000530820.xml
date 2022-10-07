@@ -1,0 +1,1 @@
+<annotation><filename>000000530820.jpg</filename><size><width>640</width><height>428</height></size><object><name>person</name><bndbox><xmin>252.95</xmin><ymin>13.3</ymin><xmax>448.2</xmax><ymax>428.0</ymax></bndbox></object><object><name>tennis racket</name><bndbox><xmin>288.49</xmin><ymin>145.32</ymin><xmax>426.88</xmax><ymax>270.12</ymax></bndbox></object></annotation>

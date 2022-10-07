@@ -1,0 +1,1 @@
+{"imagePath": "000000565153.jpg", "imageWidth": 379, "imageHeight": 500, "imageData": null, "shapes": [{"label": "stop sign", "points": [[109.95, 164.17], [167.17000000000002, 220.41]], "shape_type": "rectangle"}, {"label": "parking meter", "points": [[163.49, 304.56], [200.49, 371.07]], "shape_type": "rectangle"}]}

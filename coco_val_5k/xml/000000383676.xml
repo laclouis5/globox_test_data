@@ -1,0 +1,1 @@
+<annotation><filename>000000383676.jpg</filename><size><width>640</width><height>480</height></size><object><name>giraffe</name><bndbox><xmin>259.46</xmin><ymin>150.27</ymin><xmax>473.51</xmax><ymax>428.11</ymax></bndbox></object><object><name>giraffe</name><bndbox><xmin>227.79</xmin><ymin>183.81</ymin><xmax>318.14</xmax><ymax>423.48</ymax></bndbox></object></annotation>

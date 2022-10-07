@@ -1,0 +1,1 @@
+<annotation><filename>000000000802.jpg</filename><size><width>424</width><height>640</height></size><object><name>refrigerator</name><bndbox><xmin>245.05</xmin><ymin>185.23</ymin><xmax>410.81</xmax><ymax>541.26</ymax></bndbox></object><object><name>oven</name><bndbox><xmin>33.08</xmin><ymin>289.08</ymin><xmax>159.64</xmax><ymax>520.63</ymax></bndbox></object></annotation>

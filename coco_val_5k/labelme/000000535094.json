@@ -1,0 +1,1 @@
+{"imagePath": "000000535094.jpg", "imageWidth": 640, "imageHeight": 427, "imageData": null, "shapes": [{"label": "person", "points": [[60.59, 1.44], [236.58, 113.96]], "shape_type": "rectangle"}, {"label": "person", "points": [[0.0, 0.0], [110.9, 360.68]], "shape_type": "rectangle"}, {"label": "cow", "points": [[320.53, 77.64], [639.95, 421.45]], "shape_type": "rectangle"}]}

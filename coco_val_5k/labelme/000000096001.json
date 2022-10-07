@@ -1,0 +1,1 @@
+{"imagePath": "000000096001.jpg", "imageWidth": 640, "imageHeight": 426, "imageData": null, "shapes": [{"label": "umbrella", "points": [[0.0, 196.21], [640.0, 378.51]], "shape_type": "rectangle"}, {"label": "book", "points": [[296.76, 0.8], [585.87, 182.69]], "shape_type": "rectangle"}, {"label": "bowl", "points": [[42.28, 58.11], [181.72, 156.15]], "shape_type": "rectangle"}]}

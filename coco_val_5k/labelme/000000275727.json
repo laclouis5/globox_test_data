@@ -1,0 +1,1 @@
+{"imagePath": "000000275727.jpg", "imageWidth": 640, "imageHeight": 475, "imageData": null, "shapes": [{"label": "train", "points": [[25.14, 143.14], [557.64, 388.22]], "shape_type": "rectangle"}, {"label": "traffic light", "points": [[6.05, 202.69], [24.13, 244.99]], "shape_type": "rectangle"}]}

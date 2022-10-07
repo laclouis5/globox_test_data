@@ -1,0 +1,1 @@
+{"imagePath": "000000010977.jpg", "imageWidth": 500, "imageHeight": 375, "imageData": null, "shapes": [{"label": "toilet", "points": [[240.55, 255.75], [300.48, 339.56]], "shape_type": "rectangle"}, {"label": "sink", "points": [[343.54, 213.86], [418.40000000000003, 253.47000000000003]], "shape_type": "rectangle"}]}

@@ -1,0 +1,1 @@
+<annotation><filename>000000521405.jpg</filename><size><width>426</width><height>640</height></size><object><name>toothbrush</name><bndbox><xmin>0.0</xmin><ymin>179.5</ymin><xmax>305.27</xmax><ymax>402.51</ymax></bndbox></object><object><name>sink</name><bndbox><xmin>0.0</xmin><ymin>211.12</ymin><xmax>426.0</xmax><ymax>636.6800000000001</ymax></bndbox></object></annotation>
