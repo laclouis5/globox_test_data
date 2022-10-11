@@ -1,1 +1,0 @@
-<annotation><filename>000000342971.jpg</filename><size><width>287</width><height>640</height></size><object><name>frisbee</name><bndbox><xmin>110.69</xmin><ymin>143.37</ymin><xmax>214.76999999999998</xmax><ymax>160.3</ymax></bndbox></object><object><name>person</name><bndbox><xmin>27.85</xmin><ymin>123.85</ymin><xmax>233.45</xmax><ymax>630.54</ymax></bndbox></object></annotation>

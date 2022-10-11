@@ -1,1 +1,0 @@
-<annotation><filename>000000327780.jpg</filename><size><width>640</width><height>480</height></size><object><name>fork</name><bndbox><xmin>233.02</xmin><ymin>2.25</ymin><xmax>420.94</xmax><ymax>383.46</ymax></bndbox></object><object><name>cake</name><bndbox><xmin>0.0</xmin><ymin>36.22</ymin><xmax>508.11</xmax><ymax>463.24</ymax></bndbox></object></annotation>

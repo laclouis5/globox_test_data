@@ -1,1 +1,0 @@
-{"imagePath": "000000099182.jpg", "imageWidth": 500, "imageHeight": 334, "imageData": null, "shapes": [{"label": "bed", "points": [[360.9, 173.42], [497.64, 327.35]], "shape_type": "rectangle"}, {"label": "person", "points": [[184.64, 0.75], [378.28, 282.21]], "shape_type": "rectangle"}, {"label": "book", "points": [[56.29, 88.34], [391.79, 334.0]], "shape_type": "rectangle"}]}

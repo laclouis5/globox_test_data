@@ -1,1 +1,0 @@
-{"imagePath": "000000483667.jpg", "imageWidth": 426, "imageHeight": 640, "imageData": null, "shapes": [{"label": "tie", "points": [[200.27, 399.09], [251.07, 638.55]], "shape_type": "rectangle"}, {"label": "person", "points": [[2.88, 2.88], [426.0, 629.93]], "shape_type": "rectangle"}, {"label": "chair", "points": [[67.02, 551.8], [115.77, 640.0]], "shape_type": "rectangle"}]}

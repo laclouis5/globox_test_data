@@ -1,1 +1,0 @@
-<annotation><filename>000000311180.jpg</filename><size><width>480</width><height>640</height></size><object><name>scissors</name><bndbox><xmin>93.82</xmin><ymin>307.48</ymin><xmax>478.8</xmax><ymax>484.21000000000004</ymax></bndbox></object><object><name>person</name><bndbox><xmin>0.92</xmin><ymin>103.12</ymin><xmax>447.41</xmax><ymax>639.59</ymax></bndbox></object></annotation>

@@ -1,1 +1,0 @@
-<annotation><filename>000000521601.jpg</filename><size><width>640</width><height>480</height></size><object><name>donut</name><bndbox><xmin>221.12</xmin><ymin>261.03</ymin><xmax>403.42</xmax><ymax>435.78</ymax></bndbox></object><object><name>bowl</name><bndbox><xmin>0.0</xmin><ymin>0.0</ymin><xmax>635.7</xmax><ymax>473.66</ymax></bndbox></object></annotation>

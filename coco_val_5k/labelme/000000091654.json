@@ -1,1 +1,0 @@
-{"imagePath": "000000091654.jpg", "imageWidth": 640, "imageHeight": 480, "imageData": null, "shapes": [{"label": "spoon", "points": [[1.08, 0.0], [212.49, 235.15]], "shape_type": "rectangle"}, {"label": "dining table", "points": [[1.08, 1.08], [639.64, 480.0]], "shape_type": "rectangle"}, {"label": "bowl", "points": [[34.73, 0.0], [637.52, 460.27]], "shape_type": "rectangle"}]}

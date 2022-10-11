@@ -1,1 +1,0 @@
-<annotation><filename>000000416745.jpg</filename><size><width>612</width><height>612</height></size><object><name>toilet</name><bndbox><xmin>288.41</xmin><ymin>419.65</ymin><xmax>373.22</xmax><ymax>607.1899999999999</ymax></bndbox></object><object><name>sink</name><bndbox><xmin>176.63</xmin><ymin>373.33</ymin><xmax>228.2</xmax><ymax>405.65</ymax></bndbox></object></annotation>

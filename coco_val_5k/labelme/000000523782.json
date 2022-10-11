@@ -1,1 +1,0 @@
-{"imagePath": "000000523782.jpg", "imageWidth": 640, "imageHeight": 480, "imageData": null, "shapes": [{"label": "bird", "points": [[260.27, 223.51], [327.76, 244.51]], "shape_type": "rectangle"}, {"label": "truck", "points": [[207.92, 0.59], [640.0, 185.94]], "shape_type": "rectangle"}, {"label": "truck", "points": [[3.56, 30.45], [640.0, 472.53]], "shape_type": "rectangle"}]}

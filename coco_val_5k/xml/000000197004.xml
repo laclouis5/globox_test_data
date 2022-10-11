@@ -1,1 +1,0 @@
-<annotation><filename>000000197004.jpg</filename><size><width>640</width><height>427</height></size><object><name>sandwich</name><bndbox><xmin>74.84</xmin><ymin>19.19</ymin><xmax>604.52</xmax><ymax>402.05</ymax></bndbox></object><object><name>keyboard</name><bndbox><xmin>172.9</xmin><ymin>0.64</ymin><xmax>640.0</xmax><ymax>147.75</ymax></bndbox></object></annotation>

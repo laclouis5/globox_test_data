@@ -1,1 +1,0 @@
-{"imagePath": "000000100582.jpg", "imageWidth": 640, "imageHeight": 427, "imageData": null, "shapes": [{"label": "dining table", "points": [[1.0, 1.0], [640.0, 418.96]], "shape_type": "rectangle"}, {"label": "fork", "points": [[337.0, 0.64], [575.4, 34.15]], "shape_type": "rectangle"}, {"label": "pizza", "points": [[1.92, 0.0], [640.0, 415.49]], "shape_type": "rectangle"}]}

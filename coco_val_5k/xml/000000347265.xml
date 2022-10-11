@@ -1,1 +1,0 @@
-<annotation><filename>000000347265.jpg</filename><size><width>427</width><height>640</height></size><object><name>person</name><bndbox><xmin>184.74</xmin><ymin>330.73</ymin><xmax>255.47000000000003</xmax><ymax>472.47</ymax></bndbox></object><object><name>skis</name><bndbox><xmin>190.8</xmin><ymin>456.47</ymin><xmax>262.93</xmax><ymax>480.72</ymax></bndbox></object></annotation>

@@ -1,1 +1,0 @@
-<annotation><filename>000000498463.jpg</filename><size><width>640</width><height>480</height></size><object><name>refrigerator</name><bndbox><xmin>212.37</xmin><ymin>5.15</ymin><xmax>485.42</xmax><ymax>474.31</ymax></bndbox></object><object><name>microwave</name><bndbox><xmin>486.43</xmin><ymin>184.29</ymin><xmax>587.9</xmax><ymax>250.14</ymax></bndbox></object></annotation>

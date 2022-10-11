@@ -1,1 +1,0 @@
-{"imagePath": "000000231549.jpg", "imageWidth": 640, "imageHeight": 480, "imageData": null, "shapes": [{"label": "bed", "points": [[119.73, 350.23], [508.04, 480.0]], "shape_type": "rectangle"}, {"label": "cup", "points": [[88.67, 411.44], [107.1, 438.76]], "shape_type": "rectangle"}, {"label": "clock", "points": [[560.98, 406.87], [623.4, 423.86]], "shape_type": "rectangle"}]}

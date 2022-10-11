@@ -1,1 +1,0 @@
-<annotation><filename>000000222455.jpg</filename><size><width>612</width><height>612</height></size><object><name>oven</name><bndbox><xmin>33.01</xmin><ymin>266.9</ymin><xmax>561.11</xmax><ymax>576.3299999999999</ymax></bndbox></object><object><name>microwave</name><bndbox><xmin>22.72</xmin><ymin>296.15</ymin><xmax>571.1</xmax><ymax>593.06</ymax></bndbox></object></annotation>

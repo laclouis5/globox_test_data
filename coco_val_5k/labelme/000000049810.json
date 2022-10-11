@@ -1,1 +1,0 @@
-{"imagePath": "000000049810.jpg", "imageWidth": 640, "imageHeight": 424, "imageData": null, "shapes": [{"label": "cat", "points": [[113.98, 141.33], [639.19, 424.0]], "shape_type": "rectangle"}, {"label": "cat", "points": [[0.95, 181.03], [173.41, 419.24]], "shape_type": "rectangle"}, {"label": "bench", "points": [[183.92, 68.28], [639.85, 417.39]], "shape_type": "rectangle"}]}

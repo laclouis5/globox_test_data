@@ -1,1 +1,0 @@
-<annotation><filename>000000244496.jpg</filename><size><width>276</width><height>500</height></size><object><name>tie</name><bndbox><xmin>104.75</xmin><ymin>182.56</ymin><xmax>153.44</xmax><ymax>431.3</ymax></bndbox></object><object><name>person</name><bndbox><xmin>10.11</xmin><ymin>50.56</ymin><xmax>264.04</xmax><ymax>500.0</ymax></bndbox></object></annotation>

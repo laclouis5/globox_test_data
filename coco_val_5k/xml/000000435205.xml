@@ -1,1 +1,0 @@
-<annotation><filename>000000435205.jpg</filename><size><width>500</width><height>333</height></size><object><name>teddy bear</name><bndbox><xmin>10.5</xmin><ymin>95.25</ymin><xmax>203.25</xmax><ymax>294.0</ymax></bndbox></object><object><name>person</name><bndbox><xmin>27.96</xmin><ymin>0.98</ymin><xmax>497.5</xmax><ymax>330.47</ymax></bndbox></object></annotation>

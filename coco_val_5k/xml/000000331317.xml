@@ -1,1 +1,0 @@
-<annotation><filename>000000331317.jpg</filename><size><width>640</width><height>484</height></size><object><name>clock</name><bndbox><xmin>239.18</xmin><ymin>270.93</ymin><xmax>639.3299999999999</xmax><ymax>481.57</ymax></bndbox></object><object><name>person</name><bndbox><xmin>56.99</xmin><ymin>150.5</ymin><xmax>77.58</xmax><ymax>216.72</ymax></bndbox></object></annotation>

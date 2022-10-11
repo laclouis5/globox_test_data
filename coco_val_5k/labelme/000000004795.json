@@ -1,1 +1,0 @@
-{"imagePath": "000000004795.jpg", "imageWidth": 640, "imageHeight": 480, "imageData": null, "shapes": [{"label": "cat", "points": [[152.77, 113.55], [548.13, 477.94]], "shape_type": "rectangle"}, {"label": "laptop", "points": [[0.0, 192.0], [174.74, 474.61]], "shape_type": "rectangle"}, {"label": "tv", "points": [[19.95, 2.49], [640.0, 351.58]], "shape_type": "rectangle"}]}
