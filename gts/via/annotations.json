@@ -1,0 +1,3878 @@
+{
+    "2007_001585.jpg84833": {
+        "filename": "2007_001585.jpg",
+        "size": 84833,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 58.0,
+                    "y": 158.0,
+                    "width": 14.0,
+                    "height": 33.0
+                },
+                "region_attributes": {
+                    "label_id": "bottle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 197.0,
+                    "y": 115.0,
+                    "width": 131.0,
+                    "height": 243.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 6.0,
+                    "y": 180.0,
+                    "width": 419.0,
+                    "height": 161.0
+                },
+                "region_attributes": {
+                    "label_id": "sofa"
+                }
+            }
+        ]
+    },
+    "2007_001583.jpg100575": {
+        "filename": "2007_001583.jpg",
+        "size": 100575,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 70.0,
+                    "y": 16.0,
+                    "width": 162.0,
+                    "height": 359.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 312.0,
+                    "y": 45.0,
+                    "width": 100.0,
+                    "height": 237.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            }
+        ]
+    },
+    "2007_001568.jpg65730": {
+        "filename": "2007_001568.jpg",
+        "size": 65730,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 3.0,
+                    "y": 42.0,
+                    "width": 397.0,
+                    "height": 330.0
+                },
+                "region_attributes": {
+                    "label_id": "aeroplane"
+                }
+            }
+        ]
+    },
+    "2007_001558.jpg72249": {
+        "filename": "2007_001558.jpg",
+        "size": 72249,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 283.0,
+                    "y": 15.0,
+                    "width": 217.0,
+                    "height": 313.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1.0,
+                    "y": 56.0,
+                    "width": 285.0,
+                    "height": 273.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            }
+        ]
+    },
+    "2007_001526.jpg82216": {
+        "filename": "2007_001526.jpg",
+        "size": 82216,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 381.0,
+                    "y": 15.0,
+                    "width": 119.0,
+                    "height": 282.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 289.0,
+                    "y": 33.0,
+                    "width": 98.0,
+                    "height": 264.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 212.0,
+                    "y": 35.0,
+                    "width": 104.0,
+                    "height": 262.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 109.0,
+                    "y": 51.0,
+                    "width": 105.0,
+                    "height": 246.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 3.0,
+                    "y": 18.0,
+                    "width": 111.0,
+                    "height": 280.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            }
+        ]
+    },
+    "2007_001487.jpg88523": {
+        "filename": "2007_001487.jpg",
+        "size": 88523,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 242.0,
+                    "y": 117.0,
+                    "width": 35.0,
+                    "height": 34.0
+                },
+                "region_attributes": {
+                    "label_id": "boat"
+                }
+            }
+        ]
+    },
+    "2007_001458.jpg108480": {
+        "filename": "2007_001458.jpg",
+        "size": 108480,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 106.0,
+                    "y": 121.0,
+                    "width": 286.0,
+                    "height": 178.0
+                },
+                "region_attributes": {
+                    "label_id": "sofa"
+                }
+            }
+        ]
+    },
+    "2007_001457.jpg78850": {
+        "filename": "2007_001457.jpg",
+        "size": 78850,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 432.0,
+                    "y": 212.0,
+                    "width": 68.0,
+                    "height": 163.0
+                },
+                "region_attributes": {
+                    "label_id": "chair"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 136.0,
+                    "y": 121.0,
+                    "width": 214.0,
+                    "height": 143.0
+                },
+                "region_attributes": {
+                    "label_id": "sofa"
+                }
+            }
+        ]
+    },
+    "2007_001439.jpg71481": {
+        "filename": "2007_001439.jpg",
+        "size": 71481,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 4.0,
+                    "y": 324.0,
+                    "width": 371.0,
+                    "height": 176.0
+                },
+                "region_attributes": {
+                    "label_id": "diningtable"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 195.0,
+                    "y": 282.0,
+                    "width": 78.0,
+                    "height": 54.0
+                },
+                "region_attributes": {
+                    "label_id": "chair"
+                }
+            }
+        ]
+    },
+    "2007_001430.jpg95655": {
+        "filename": "2007_001430.jpg",
+        "size": 95655,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1.0,
+                    "y": 269.0,
+                    "width": 249.0,
+                    "height": 105.0
+                },
+                "region_attributes": {
+                    "label_id": "diningtable"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 316.0,
+                    "y": 1.0,
+                    "width": 102.0,
+                    "height": 65.0
+                },
+                "region_attributes": {
+                    "label_id": "tvmonitor"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 56.0,
+                    "y": 174.0,
+                    "width": 44.0,
+                    "height": 46.0
+                },
+                "region_attributes": {
+                    "label_id": "pottedplant"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 245.0,
+                    "y": 154.0,
+                    "width": 153.0,
+                    "height": 220.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 211.0,
+                    "y": 146.0,
+                    "width": 92.0,
+                    "height": 206.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 100.0,
+                    "y": 154.0,
+                    "width": 135.0,
+                    "height": 132.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 344.0,
+                    "y": 83.0,
+                    "width": 84.0,
+                    "height": 131.0
+                },
+                "region_attributes": {
+                    "label_id": "pottedplant"
+                }
+            }
+        ]
+    },
+    "2007_001423.jpg42063": {
+        "filename": "2007_001423.jpg",
+        "size": 42063,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 124.0,
+                    "y": 56.0,
+                    "width": 258.0,
+                    "height": 277.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            }
+        ]
+    },
+    "2007_001420.jpg58822": {
+        "filename": "2007_001420.jpg",
+        "size": 58822,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 281.0,
+                    "y": 80.0,
+                    "width": 83.0,
+                    "height": 188.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 192.0,
+                    "y": 109.0,
+                    "width": 148.0,
+                    "height": 161.0
+                },
+                "region_attributes": {
+                    "label_id": "horse"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 436.0,
+                    "y": 148.0,
+                    "width": 64.0,
+                    "height": 158.0
+                },
+                "region_attributes": {
+                    "label_id": "pottedplant"
+                }
+            }
+        ]
+    },
+    "2007_001416.jpg53923": {
+        "filename": "2007_001416.jpg",
+        "size": 53923,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 27.0,
+                    "y": 13.0,
+                    "width": 225.0,
+                    "height": 121.0
+                },
+                "region_attributes": {
+                    "label_id": "sheep"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 330.0,
+                    "y": 26.0,
+                    "width": 142.0,
+                    "height": 80.0
+                },
+                "region_attributes": {
+                    "label_id": "sheep"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1.0,
+                    "y": 185.0,
+                    "width": 323.0,
+                    "height": 143.0
+                },
+                "region_attributes": {
+                    "label_id": "sheep"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1.0,
+                    "y": 106.0,
+                    "width": 120.0,
+                    "height": 143.0
+                },
+                "region_attributes": {
+                    "label_id": "sheep"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 19.0,
+                    "y": 71.0,
+                    "width": 164.0,
+                    "height": 124.0
+                },
+                "region_attributes": {
+                    "label_id": "sheep"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 208.0,
+                    "y": 78.0,
+                    "width": 193.0,
+                    "height": 114.0
+                },
+                "region_attributes": {
+                    "label_id": "sheep"
+                }
+            }
+        ]
+    },
+    "2007_001408.jpg98490": {
+        "filename": "2007_001408.jpg",
+        "size": 98490,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 210.0,
+                    "y": 1.0,
+                    "width": 123.0,
+                    "height": 107.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 56.0,
+                    "y": 107.0,
+                    "width": 174.0,
+                    "height": 280.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 114.0,
+                    "y": 245.0,
+                    "width": 64.0,
+                    "height": 203.0
+                },
+                "region_attributes": {
+                    "label_id": "bottle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 119.0,
+                    "y": 1.0,
+                    "width": 65.0,
+                    "height": 129.0
+                },
+                "region_attributes": {
+                    "label_id": "pottedplant"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 84.0,
+                    "y": 87.0,
+                    "width": 249.0,
+                    "height": 279.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 20.0,
+                    "y": 68.0,
+                    "width": 30.0,
+                    "height": 99.0
+                },
+                "region_attributes": {
+                    "label_id": "bottle"
+                }
+            }
+        ]
+    },
+    "2007_001397.jpg91390": {
+        "filename": "2007_001397.jpg",
+        "size": 91390,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 128.0,
+                    "y": 121.0,
+                    "width": 86.0,
+                    "height": 142.0
+                },
+                "region_attributes": {
+                    "label_id": "dog"
+                }
+            }
+        ]
+    },
+    "2007_001377.jpg57701": {
+        "filename": "2007_001377.jpg",
+        "size": 57701,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 273.0,
+                    "y": 163.0,
+                    "width": 45.0,
+                    "height": 87.0
+                },
+                "region_attributes": {
+                    "label_id": "aeroplane"
+                }
+            }
+        ]
+    },
+    "2007_001340.jpg88423": {
+        "filename": "2007_001340.jpg",
+        "size": 88423,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 213.0,
+                    "y": 48.0,
+                    "width": 193.0,
+                    "height": 218.0
+                },
+                "region_attributes": {
+                    "label_id": "chair"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 92.0,
+                    "y": 111.0,
+                    "width": 239.0,
+                    "height": 263.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 326.0,
+                    "y": 284.0,
+                    "width": 174.0,
+                    "height": 91.0
+                },
+                "region_attributes": {
+                    "label_id": "dog"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 150.0,
+                    "y": 140.0,
+                    "width": 102.0,
+                    "height": 235.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            }
+        ]
+    },
+    "2007_001321.jpg67914": {
+        "filename": "2007_001321.jpg",
+        "size": 67914,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1.0,
+                    "y": 98.0,
+                    "width": 455.0,
+                    "height": 235.0
+                },
+                "region_attributes": {
+                    "label_id": "car"
+                }
+            }
+        ]
+    },
+    "2007_001311.jpg106805": {
+        "filename": "2007_001311.jpg",
+        "size": 106805,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 334.0,
+                    "y": 128.0,
+                    "width": 46.0,
+                    "height": 92.0
+                },
+                "region_attributes": {
+                    "label_id": "bicycle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 432.0,
+                    "y": 118.0,
+                    "width": 33.0,
+                    "height": 68.0
+                },
+                "region_attributes": {
+                    "label_id": "bicycle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 333.0,
+                    "y": 79.0,
+                    "width": 54.0,
+                    "height": 122.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 465.0,
+                    "y": 104.0,
+                    "width": 25.0,
+                    "height": 62.0
+                },
+                "region_attributes": {
+                    "label_id": "bicycle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 187.0,
+                    "y": 106.0,
+                    "width": 104.0,
+                    "height": 187.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 27.0,
+                    "y": 61.0,
+                    "width": 136.0,
+                    "height": 219.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 431.0,
+                    "y": 75.0,
+                    "width": 37.0,
+                    "height": 96.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 463.0,
+                    "y": 67.0,
+                    "width": 32.0,
+                    "height": 87.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 12.0,
+                    "y": 161.0,
+                    "width": 169.0,
+                    "height": 158.0
+                },
+                "region_attributes": {
+                    "label_id": "bicycle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 177.0,
+                    "y": 188.0,
+                    "width": 127.0,
+                    "height": 131.0
+                },
+                "region_attributes": {
+                    "label_id": "bicycle"
+                }
+            }
+        ]
+    },
+    "2007_001299.jpg143118": {
+        "filename": "2007_001299.jpg",
+        "size": 143118,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 211.0,
+                    "y": 240.0,
+                    "width": 108.0,
+                    "height": 168.0
+                },
+                "region_attributes": {
+                    "label_id": "cow"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 39.0,
+                    "y": 26.0,
+                    "width": 190.0,
+                    "height": 386.0
+                },
+                "region_attributes": {
+                    "label_id": "cow"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 318.0,
+                    "y": 221.0,
+                    "width": 90.0,
+                    "height": 214.0
+                },
+                "region_attributes": {
+                    "label_id": "cow"
+                }
+            }
+        ]
+    },
+    "2007_001289.jpg81577": {
+        "filename": "2007_001289.jpg",
+        "size": 81577,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 157.0,
+                    "y": 98.0,
+                    "width": 198.0,
+                    "height": 90.0
+                },
+                "region_attributes": {
+                    "label_id": "bird"
+                }
+            }
+        ]
+    },
+    "2007_001288.jpg59770": {
+        "filename": "2007_001288.jpg",
+        "size": 59770,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 68.0,
+                    "y": 76.0,
+                    "width": 358.0,
+                    "height": 133.0
+                },
+                "region_attributes": {
+                    "label_id": "aeroplane"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 196.0,
+                    "y": 272.0,
+                    "width": 120.0,
+                    "height": 42.0
+                },
+                "region_attributes": {
+                    "label_id": "aeroplane"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 357.0,
+                    "y": 272.0,
+                    "width": 140.0,
+                    "height": 45.0
+                },
+                "region_attributes": {
+                    "label_id": "aeroplane"
+                }
+            }
+        ]
+    },
+    "2007_001284.jpg123809": {
+        "filename": "2007_001284.jpg",
+        "size": 123809,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 135.0,
+                    "y": 123.0,
+                    "width": 100.0,
+                    "height": 252.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 419.0,
+                    "y": 90.0,
+                    "width": 29.0,
+                    "height": 49.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1.0,
+                    "y": 114.0,
+                    "width": 125.0,
+                    "height": 261.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 301.0,
+                    "y": 114.0,
+                    "width": 199.0,
+                    "height": 261.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 276.0,
+                    "y": 117.0,
+                    "width": 150.0,
+                    "height": 243.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 238.0,
+                    "y": 115.0,
+                    "width": 138.0,
+                    "height": 189.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            }
+        ]
+    },
+    "2007_001239.jpg94660": {
+        "filename": "2007_001239.jpg",
+        "size": 94660,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 108.0,
+                    "y": 60.0,
+                    "width": 212.0,
+                    "height": 100.0
+                },
+                "region_attributes": {
+                    "label_id": "dog"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 228.0,
+                    "y": 138.0,
+                    "width": 153.0,
+                    "height": 237.0
+                },
+                "region_attributes": {
+                    "label_id": "dog"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 118.0,
+                    "y": 94.0,
+                    "width": 168.0,
+                    "height": 213.0
+                },
+                "region_attributes": {
+                    "label_id": "dog"
+                }
+            }
+        ]
+    },
+    "2007_001225.jpg85521": {
+        "filename": "2007_001225.jpg",
+        "size": 85521,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 100.0,
+                    "y": 212.0,
+                    "width": 203.0,
+                    "height": 202.0
+                },
+                "region_attributes": {
+                    "label_id": "dog"
+                }
+            }
+        ]
+    },
+    "2007_001185.jpg90421": {
+        "filename": "2007_001185.jpg",
+        "size": 90421,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 78.0,
+                    "y": 78.0,
+                    "width": 211.0,
+                    "height": 297.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 452.0,
+                    "y": 131.0,
+                    "width": 48.0,
+                    "height": 122.0
+                },
+                "region_attributes": {
+                    "label_id": "bottle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 204.0,
+                    "y": 223.0,
+                    "width": 296.0,
+                    "height": 152.0
+                },
+                "region_attributes": {
+                    "label_id": "diningtable"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 197.0,
+                    "y": 199.0,
+                    "width": 92.0,
+                    "height": 124.0
+                },
+                "region_attributes": {
+                    "label_id": "cat"
+                }
+            }
+        ]
+    },
+    "2007_001175.jpg90203": {
+        "filename": "2007_001175.jpg",
+        "size": 90203,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 119.0,
+                    "y": 153.0,
+                    "width": 248.0,
+                    "height": 176.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 360.0,
+                    "y": 114.0,
+                    "width": 89.0,
+                    "height": 73.0
+                },
+                "region_attributes": {
+                    "label_id": "tvmonitor"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 157.0,
+                    "y": 169.0,
+                    "width": 99.0,
+                    "height": 61.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            }
+        ]
+    },
+    "2007_001154.jpg60157": {
+        "filename": "2007_001154.jpg",
+        "size": 60157,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1.0,
+                    "y": 233.0,
+                    "width": 173.0,
+                    "height": 142.0
+                },
+                "region_attributes": {
+                    "label_id": "sofa"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 134.0,
+                    "y": 230.0,
+                    "width": 37.0,
+                    "height": 44.0
+                },
+                "region_attributes": {
+                    "label_id": "pottedplant"
+                }
+            }
+        ]
+    },
+    "2007_001149.jpg103293": {
+        "filename": "2007_001149.jpg",
+        "size": 103293,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 148.0,
+                    "y": 138.0,
+                    "width": 255.0,
+                    "height": 164.0
+                },
+                "region_attributes": {
+                    "label_id": "sofa"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 75.0,
+                    "y": 85.0,
+                    "width": 71.0,
+                    "height": 68.0
+                },
+                "region_attributes": {
+                    "label_id": "tvmonitor"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1.0,
+                    "y": 7.0,
+                    "width": 141.0,
+                    "height": 368.0
+                },
+                "region_attributes": {
+                    "label_id": "pottedplant"
+                }
+            }
+        ]
+    },
+    "2007_001073.jpg138505": {
+        "filename": "2007_001073.jpg",
+        "size": 138505,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 276.0,
+                    "y": 159.0,
+                    "width": 74.0,
+                    "height": 96.0
+                },
+                "region_attributes": {
+                    "label_id": "cow"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 55.0,
+                    "y": 178.0,
+                    "width": 94.0,
+                    "height": 70.0
+                },
+                "region_attributes": {
+                    "label_id": "cow"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 135.0,
+                    "y": 176.0,
+                    "width": 39.0,
+                    "height": 65.0
+                },
+                "region_attributes": {
+                    "label_id": "cow"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 227.0,
+                    "y": 153.0,
+                    "width": 55.0,
+                    "height": 83.0
+                },
+                "region_attributes": {
+                    "label_id": "cow"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 327.0,
+                    "y": 152.0,
+                    "width": 98.0,
+                    "height": 88.0
+                },
+                "region_attributes": {
+                    "label_id": "cow"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 421.0,
+                    "y": 161.0,
+                    "width": 79.0,
+                    "height": 66.0
+                },
+                "region_attributes": {
+                    "label_id": "cow"
+                }
+            }
+        ]
+    },
+    "2007_001027.jpg84913": {
+        "filename": "2007_001027.jpg",
+        "size": 84913,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1.0,
+                    "y": 244.0,
+                    "width": 42.0,
+                    "height": 96.0
+                },
+                "region_attributes": {
+                    "label_id": "tvmonitor"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 58.0,
+                    "y": 156.0,
+                    "width": 36.0,
+                    "height": 62.0
+                },
+                "region_attributes": {
+                    "label_id": "bicycle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 401.0,
+                    "y": 270.0,
+                    "width": 99.0,
+                    "height": 105.0
+                },
+                "region_attributes": {
+                    "label_id": "sofa"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 329.0,
+                    "y": 174.0,
+                    "width": 19.0,
+                    "height": 49.0
+                },
+                "region_attributes": {
+                    "label_id": "chair"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 263.0,
+                    "y": 218.0,
+                    "width": 88.0,
+                    "height": 111.0
+                },
+                "region_attributes": {
+                    "label_id": "chair"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 256.0,
+                    "y": 189.0,
+                    "width": 50.0,
+                    "height": 103.0
+                },
+                "region_attributes": {
+                    "label_id": "chair"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 203.0,
+                    "y": 174.0,
+                    "width": 51.0,
+                    "height": 99.0
+                },
+                "region_attributes": {
+                    "label_id": "chair"
+                }
+            }
+        ]
+    },
+    "2007_000999.jpg74362": {
+        "filename": "2007_000999.jpg",
+        "size": 74362,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 233.0,
+                    "y": 317.0,
+                    "width": 56.0,
+                    "height": 88.0
+                },
+                "region_attributes": {
+                    "label_id": "bottle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2.0,
+                    "y": 16.0,
+                    "width": 278.0,
+                    "height": 484.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            }
+        ]
+    },
+    "2007_000925.jpg96320": {
+        "filename": "2007_000925.jpg",
+        "size": 96320,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 309.0,
+                    "y": 105.0,
+                    "width": 151.0,
+                    "height": 228.0
+                },
+                "region_attributes": {
+                    "label_id": "sheep"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 29.0,
+                    "y": 101.0,
+                    "width": 187.0,
+                    "height": 242.0
+                },
+                "region_attributes": {
+                    "label_id": "sheep"
+                }
+            }
+        ]
+    },
+    "2007_000904.jpg108153": {
+        "filename": "2007_000904.jpg",
+        "size": 108153,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1.0,
+                    "y": 213.0,
+                    "width": 304.0,
+                    "height": 162.0
+                },
+                "region_attributes": {
+                    "label_id": "horse"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 17.0,
+                    "y": 113.0,
+                    "width": 148.0,
+                    "height": 125.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 237.0,
+                    "y": 167.0,
+                    "width": 101.0,
+                    "height": 96.0
+                },
+                "region_attributes": {
+                    "label_id": "cow"
+                }
+            }
+        ]
+    },
+    "2007_000876.jpg62080": {
+        "filename": "2007_000876.jpg",
+        "size": 62080,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 117.0,
+                    "y": 31.0,
+                    "width": 259.0,
+                    "height": 298.0
+                },
+                "region_attributes": {
+                    "label_id": "cat"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 261.0,
+                    "y": 14.0,
+                    "width": 137.0,
+                    "height": 118.0
+                },
+                "region_attributes": {
+                    "label_id": "cat"
+                }
+            }
+        ]
+    },
+    "2007_000862.jpg26426": {
+        "filename": "2007_000862.jpg",
+        "size": 26426,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 304.0,
+                    "y": 142.0,
+                    "width": 50.0,
+                    "height": 18.0
+                },
+                "region_attributes": {
+                    "label_id": "boat"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 305.0,
+                    "y": 131.0,
+                    "width": 13.0,
+                    "height": 20.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            }
+        ]
+    },
+    "2007_000847.jpg104738": {
+        "filename": "2007_000847.jpg",
+        "size": 104738,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 61.0,
+                    "y": 111.0,
+                    "width": 235.0,
+                    "height": 389.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1.0,
+                    "y": 279.0,
+                    "width": 207.0,
+                    "height": 221.0
+                },
+                "region_attributes": {
+                    "label_id": "diningtable"
+                }
+            }
+        ]
+    },
+    "2007_000837.jpg57202": {
+        "filename": "2007_000837.jpg",
+        "size": 57202,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 261.0,
+                    "y": 65.0,
+                    "width": 104.0,
+                    "height": 94.0
+                },
+                "region_attributes": {
+                    "label_id": "boat"
+                }
+            }
+        ]
+    },
+    "2007_000836.jpg64356": {
+        "filename": "2007_000836.jpg",
+        "size": 64356,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 69.0,
+                    "y": 99.0,
+                    "width": 155.0,
+                    "height": 198.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 93.0,
+                    "y": 162.0,
+                    "width": 133.0,
+                    "height": 280.0
+                },
+                "region_attributes": {
+                    "label_id": "horse"
+                }
+            }
+        ]
+    },
+    "2007_000830.jpg71975": {
+        "filename": "2007_000830.jpg",
+        "size": 71975,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 124.0,
+                    "y": 182.0,
+                    "width": 228.0,
+                    "height": 188.0
+                },
+                "region_attributes": {
+                    "label_id": "diningtable"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 150.0,
+                    "y": 221.0,
+                    "width": 109.0,
+                    "height": 154.0
+                },
+                "region_attributes": {
+                    "label_id": "chair"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 252.0,
+                    "y": 201.0,
+                    "width": 96.0,
+                    "height": 146.0
+                },
+                "region_attributes": {
+                    "label_id": "chair"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 250.0,
+                    "y": 175.0,
+                    "width": 68.0,
+                    "height": 73.0
+                },
+                "region_attributes": {
+                    "label_id": "chair"
+                }
+            }
+        ]
+    },
+    "2007_000822.jpg142234": {
+        "filename": "2007_000822.jpg",
+        "size": 142234,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 231.0,
+                    "y": 168.0,
+                    "width": 122.0,
+                    "height": 155.0
+                },
+                "region_attributes": {
+                    "label_id": "motorbike"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 98.0,
+                    "y": 165.0,
+                    "width": 132.0,
+                    "height": 181.0
+                },
+                "region_attributes": {
+                    "label_id": "motorbike"
+                }
+            }
+        ]
+    },
+    "2007_000807.jpg77033": {
+        "filename": "2007_000807.jpg",
+        "size": 77033,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 34.0,
+                    "y": 31.0,
+                    "width": 166.0,
+                    "height": 469.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            }
+        ]
+    },
+    "2007_000804.jpg69005": {
+        "filename": "2007_000804.jpg",
+        "size": 69005,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 94.0,
+                    "y": 243.0,
+                    "width": 59.0,
+                    "height": 61.0
+                },
+                "region_attributes": {
+                    "label_id": "chair"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 191.0,
+                    "y": 265.0,
+                    "width": 141.0,
+                    "height": 205.0
+                },
+                "region_attributes": {
+                    "label_id": "sofa"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 32.0,
+                    "y": 352.0,
+                    "width": 94.0,
+                    "height": 139.0
+                },
+                "region_attributes": {
+                    "label_id": "chair"
+                }
+            }
+        ]
+    },
+    "2007_000799.jpg102927": {
+        "filename": "2007_000799.jpg",
+        "size": 102927,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 95.0,
+                    "y": 23.0,
+                    "width": 405.0,
+                    "height": 418.0
+                },
+                "region_attributes": {
+                    "label_id": "horse"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 230.0,
+                    "y": 225.0,
+                    "width": 270.0,
+                    "height": 216.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            }
+        ]
+    },
+    "2007_000793.jpg113503": {
+        "filename": "2007_000793.jpg",
+        "size": 113503,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 273.0,
+                    "y": 103.0,
+                    "width": 22.0,
+                    "height": 79.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 96.0,
+                    "y": 107.0,
+                    "width": 18.0,
+                    "height": 52.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 65.0,
+                    "y": 110.0,
+                    "width": 19.0,
+                    "height": 51.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 402.0,
+                    "y": 67.0,
+                    "width": 65.0,
+                    "height": 192.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 218.0,
+                    "y": 107.0,
+                    "width": 18.0,
+                    "height": 71.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 241.0,
+                    "y": 111.0,
+                    "width": 29.0,
+                    "height": 69.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 289.0,
+                    "y": 100.0,
+                    "width": 27.0,
+                    "height": 83.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2.0,
+                    "y": 80.0,
+                    "width": 49.0,
+                    "height": 55.0
+                },
+                "region_attributes": {
+                    "label_id": "bus"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 151.0,
+                    "y": 160.0,
+                    "width": 159.0,
+                    "height": 120.0
+                },
+                "region_attributes": {
+                    "label_id": "bicycle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 100.0,
+                    "y": 78.0,
+                    "width": 90.0,
+                    "height": 204.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            }
+        ]
+    },
+    "2007_000783.jpg137516": {
+        "filename": "2007_000783.jpg",
+        "size": 137516,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 112.0,
+                    "y": 100.0,
+                    "width": 329.0,
+                    "height": 309.0
+                },
+                "region_attributes": {
+                    "label_id": "horse"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 201.0,
+                    "y": 57.0,
+                    "width": 124.0,
+                    "height": 202.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            }
+        ]
+    },
+    "2007_000768.jpg86001": {
+        "filename": "2007_000768.jpg",
+        "size": 86001,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 33.0,
+                    "y": 46.0,
+                    "width": 336.0,
+                    "height": 284.0
+                },
+                "region_attributes": {
+                    "label_id": "bus"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 369.0,
+                    "y": 103.0,
+                    "width": 106.0,
+                    "height": 180.0
+                },
+                "region_attributes": {
+                    "label_id": "bus"
+                }
+            }
+        ]
+    },
+    "2007_000762.jpg82853": {
+        "filename": "2007_000762.jpg",
+        "size": 82853,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 4.0,
+                    "y": 22.0,
+                    "width": 120.0,
+                    "height": 230.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 199.0,
+                    "y": 140.0,
+                    "width": 21.0,
+                    "height": 47.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 143.0,
+                    "y": 127.0,
+                    "width": 123.0,
+                    "height": 96.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 342.0,
+                    "y": 142.0,
+                    "width": 51.0,
+                    "height": 60.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1.0,
+                    "y": 189.0,
+                    "width": 499.0,
+                    "height": 186.0
+                },
+                "region_attributes": {
+                    "label_id": "diningtable"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 3.0,
+                    "y": 249.0,
+                    "width": 171.0,
+                    "height": 79.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 29.0,
+                    "y": 152.0,
+                    "width": 89.0,
+                    "height": 223.0
+                },
+                "region_attributes": {
+                    "label_id": "bottle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 382.0,
+                    "y": 61.0,
+                    "width": 118.0,
+                    "height": 200.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            }
+        ]
+    },
+    "2007_000738.jpg70115": {
+        "filename": "2007_000738.jpg",
+        "size": 70115,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1.0,
+                    "y": 124.0,
+                    "width": 495.0,
+                    "height": 111.0
+                },
+                "region_attributes": {
+                    "label_id": "aeroplane"
+                }
+            }
+        ]
+    },
+    "2007_000733.jpg143025": {
+        "filename": "2007_000733.jpg",
+        "size": 143025,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 48.0,
+                    "y": 25.0,
+                    "width": 225.0,
+                    "height": 358.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 103.0,
+                    "y": 201.0,
+                    "width": 345.0,
+                    "height": 234.0
+                },
+                "region_attributes": {
+                    "label_id": "motorbike"
+                }
+            }
+        ]
+    },
+    "2007_000727.jpg88267": {
+        "filename": "2007_000727.jpg",
+        "size": 88267,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2.0,
+                    "y": 380.0,
+                    "width": 87.0,
+                    "height": 55.0
+                },
+                "region_attributes": {
+                    "label_id": "car"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 113.0,
+                    "y": 138.0,
+                    "width": 47.0,
+                    "height": 26.0
+                },
+                "region_attributes": {
+                    "label_id": "car"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 49.0,
+                    "y": 367.0,
+                    "width": 41.0,
+                    "height": 22.0
+                },
+                "region_attributes": {
+                    "label_id": "car"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 354.0,
+                    "y": 363.0,
+                    "width": 21.0,
+                    "height": 51.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 319.0,
+                    "y": 357.0,
+                    "width": 22.0,
+                    "height": 67.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 333.0,
+                    "y": 356.0,
+                    "width": 25.0,
+                    "height": 82.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 272.0,
+                    "y": 369.0,
+                    "width": 51.0,
+                    "height": 19.0
+                },
+                "region_attributes": {
+                    "label_id": "car"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 89.0,
+                    "y": 323.0,
+                    "width": 184.0,
+                    "height": 113.0
+                },
+                "region_attributes": {
+                    "label_id": "bus"
+                }
+            }
+        ]
+    },
+    "2007_000720.jpg93346": {
+        "filename": "2007_000720.jpg",
+        "size": 93346,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 217.0,
+                    "y": 118.0,
+                    "width": 88.0,
+                    "height": 145.0
+                },
+                "region_attributes": {
+                    "label_id": "dog"
+                }
+            }
+        ]
+    },
+    "2007_000713.jpg96475": {
+        "filename": "2007_000713.jpg",
+        "size": 96475,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 80.0,
+                    "y": 168.0,
+                    "width": 174.0,
+                    "height": 144.0
+                },
+                "region_attributes": {
+                    "label_id": "boat"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 184.0,
+                    "y": 160.0,
+                    "width": 288.0,
+                    "height": 109.0
+                },
+                "region_attributes": {
+                    "label_id": "boat"
+                }
+            }
+        ]
+    },
+    "2007_000676.jpg123599": {
+        "filename": "2007_000676.jpg",
+        "size": 123599,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 59.0,
+                    "y": 94.0,
+                    "width": 413.0,
+                    "height": 176.0
+                },
+                "region_attributes": {
+                    "label_id": "sheep"
+                }
+            }
+        ]
+    },
+    "2007_000664.jpg56009": {
+        "filename": "2007_000664.jpg",
+        "size": 56009,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 51.0,
+                    "y": 2.0,
+                    "width": 274.0,
+                    "height": 373.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            }
+        ]
+    },
+    "2007_000663.jpg116874": {
+        "filename": "2007_000663.jpg",
+        "size": 116874,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 373.0,
+                    "y": 68.0,
+                    "width": 49.0,
+                    "height": 40.0
+                },
+                "region_attributes": {
+                    "label_id": "car"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 376.0,
+                    "y": 98.0,
+                    "width": 46.0,
+                    "height": 112.0
+                },
+                "region_attributes": {
+                    "label_id": "car"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 12.0,
+                    "y": 2.0,
+                    "width": 405.0,
+                    "height": 465.0
+                },
+                "region_attributes": {
+                    "label_id": "bus"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 7.0,
+                    "y": 39.0,
+                    "width": 56.0,
+                    "height": 55.0
+                },
+                "region_attributes": {
+                    "label_id": "car"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 362.0,
+                    "y": 24.0,
+                    "width": 60.0,
+                    "height": 29.0
+                },
+                "region_attributes": {
+                    "label_id": "car"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 376.0,
+                    "y": 36.0,
+                    "width": 46.0,
+                    "height": 45.0
+                },
+                "region_attributes": {
+                    "label_id": "car"
+                }
+            }
+        ]
+    },
+    "2007_000661.jpg69534": {
+        "filename": "2007_000661.jpg",
+        "size": 69534,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 133.0,
+                    "y": 159.0,
+                    "width": 46.0,
+                    "height": 38.0
+                },
+                "region_attributes": {
+                    "label_id": "chair"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 119.0,
+                    "y": 177.0,
+                    "width": 212.0,
+                    "height": 101.0
+                },
+                "region_attributes": {
+                    "label_id": "sofa"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 65.0,
+                    "y": 90.0,
+                    "width": 105.0,
+                    "height": 107.0
+                },
+                "region_attributes": {
+                    "label_id": "pottedplant"
+                }
+            }
+        ]
+    },
+    "2007_000648.jpg72911": {
+        "filename": "2007_000648.jpg",
+        "size": 72911,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 394.0,
+                    "y": 199.0,
+                    "width": 10.0,
+                    "height": 24.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 434.0,
+                    "y": 196.0,
+                    "width": 10.0,
+                    "height": 24.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 443.0,
+                    "y": 195.0,
+                    "width": 9.0,
+                    "height": 25.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 29.0,
+                    "y": 113.0,
+                    "width": 324.0,
+                    "height": 153.0
+                },
+                "region_attributes": {
+                    "label_id": "bus"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 328.0,
+                    "y": 86.0,
+                    "width": 146.0,
+                    "height": 106.0
+                },
+                "region_attributes": {
+                    "label_id": "aeroplane"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2.0,
+                    "y": 213.0,
+                    "width": 26.0,
+                    "height": 22.0
+                },
+                "region_attributes": {
+                    "label_id": "car"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 424.0,
+                    "y": 199.0,
+                    "width": 12.0,
+                    "height": 21.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            }
+        ]
+    },
+    "2007_000645.jpg72481": {
+        "filename": "2007_000645.jpg",
+        "size": 72481,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 135.0,
+                    "y": 46.0,
+                    "width": 365.0,
+                    "height": 328.0
+                },
+                "region_attributes": {
+                    "label_id": "bird"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 124.0,
+                    "y": 146.0,
+                    "width": 241.0,
+                    "height": 229.0
+                },
+                "region_attributes": {
+                    "label_id": "bird"
+                }
+            }
+        ]
+    },
+    "2007_000636.jpg105625": {
+        "filename": "2007_000636.jpg",
+        "size": 105625,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 79.0,
+                    "y": 96.0,
+                    "width": 313.0,
+                    "height": 204.0
+                },
+                "region_attributes": {
+                    "label_id": "train"
+                }
+            }
+        ]
+    },
+    "2007_000629.jpg80285": {
+        "filename": "2007_000629.jpg",
+        "size": 80285,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 34.0,
+                    "y": 84.0,
+                    "width": 466.0,
+                    "height": 100.0
+                },
+                "region_attributes": {
+                    "label_id": "train"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 87.0,
+                    "y": 100.0,
+                    "width": 20.0,
+                    "height": 24.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            }
+        ]
+    },
+    "2007_000584.jpg73795": {
+        "filename": "2007_000584.jpg",
+        "size": 73795,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 344.0,
+                    "y": 207.0,
+                    "width": 156.0,
+                    "height": 167.0
+                },
+                "region_attributes": {
+                    "label_id": "sofa"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 31.0,
+                    "y": 74.0,
+                    "width": 338.0,
+                    "height": 272.0
+                },
+                "region_attributes": {
+                    "label_id": "bicycle"
+                }
+            }
+        ]
+    },
+    "2007_000572.jpg98990": {
+        "filename": "2007_000572.jpg",
+        "size": 98990,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 8.0,
+                    "y": 134.0,
+                    "width": 218.0,
+                    "height": 163.0
+                },
+                "region_attributes": {
+                    "label_id": "bicycle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1.0,
+                    "y": 178.0,
+                    "width": 234.0,
+                    "height": 153.0
+                },
+                "region_attributes": {
+                    "label_id": "bicycle"
+                }
+            }
+        ]
+    },
+    "2007_000559.jpg75049": {
+        "filename": "2007_000559.jpg",
+        "size": 75049,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 160.0,
+                    "y": 26.0,
+                    "width": 211.0,
+                    "height": 215.0
+                },
+                "region_attributes": {
+                    "label_id": "tvmonitor"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 36.0,
+                    "y": 250.0,
+                    "width": 43.0,
+                    "height": 104.0
+                },
+                "region_attributes": {
+                    "label_id": "bottle"
+                }
+            }
+        ]
+    },
+    "2007_000549.jpg73881": {
+        "filename": "2007_000549.jpg",
+        "size": 73881,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1.0,
+                    "y": 49.0,
+                    "width": 340.0,
+                    "height": 450.0
+                },
+                "region_attributes": {
+                    "label_id": "cat"
+                }
+            }
+        ]
+    },
+    "2007_000529.jpg56237": {
+        "filename": "2007_000529.jpg",
+        "size": 56237,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 290.0,
+                    "y": 143.0,
+                    "width": 210.0,
+                    "height": 107.0
+                },
+                "region_attributes": {
+                    "label_id": "boat"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 422.0,
+                    "y": 237.0,
+                    "width": 39.0,
+                    "height": 18.0
+                },
+                "region_attributes": {
+                    "label_id": "car"
+                }
+            }
+        ]
+    },
+    "2007_000528.jpg131162": {
+        "filename": "2007_000528.jpg",
+        "size": 131162,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 124.0,
+                    "y": 68.0,
+                    "width": 195.0,
+                    "height": 242.0
+                },
+                "region_attributes": {
+                    "label_id": "cat"
+                }
+            }
+        ]
+    },
+    "2007_000515.jpg97303": {
+        "filename": "2007_000515.jpg",
+        "size": 97303,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1.0,
+                    "y": 199.0,
+                    "width": 39.0,
+                    "height": 94.0
+                },
+                "region_attributes": {
+                    "label_id": "bicycle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1.0,
+                    "y": 85.0,
+                    "width": 28.0,
+                    "height": 194.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 64.0,
+                    "y": 164.0,
+                    "width": 87.0,
+                    "height": 46.0
+                },
+                "region_attributes": {
+                    "label_id": "car"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 147.0,
+                    "y": 167.0,
+                    "width": 39.0,
+                    "height": 33.0
+                },
+                "region_attributes": {
+                    "label_id": "car"
+                }
+            }
+        ]
+    },
+    "2007_000504.jpg139133": {
+        "filename": "2007_000504.jpg",
+        "size": 139133,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 341.0,
+                    "y": 102.0,
+                    "width": 159.0,
+                    "height": 304.0
+                },
+                "region_attributes": {
+                    "label_id": "cow"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 36.0,
+                    "y": 34.0,
+                    "width": 43.0,
+                    "height": 89.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2.0,
+                    "y": 44.0,
+                    "width": 34.0,
+                    "height": 76.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 29.0,
+                    "y": 42.0,
+                    "width": 12.0,
+                    "height": 22.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            }
+        ]
+    },
+    "2007_000491.jpg73732": {
+        "filename": "2007_000491.jpg",
+        "size": 73732,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2.0,
+                    "y": 2.0,
+                    "width": 457.0,
+                    "height": 332.0
+                },
+                "region_attributes": {
+                    "label_id": "cow"
+                }
+            }
+        ]
+    },
+    "2007_000480.jpg76658": {
+        "filename": "2007_000480.jpg",
+        "size": 76658,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 5.0,
+                    "y": 172.0,
+                    "width": 111.0,
+                    "height": 201.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 114.0,
+                    "y": 165.0,
+                    "width": 114.0,
+                    "height": 208.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 293.0,
+                    "y": 162.0,
+                    "width": 126.0,
+                    "height": 213.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2.0,
+                    "y": 68.0,
+                    "width": 484.0,
+                    "height": 257.0
+                },
+                "region_attributes": {
+                    "label_id": "aeroplane"
+                }
+            }
+        ]
+    },
+    "2007_000464.jpg99806": {
+        "filename": "2007_000464.jpg",
+        "size": 99806,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 71.0,
+                    "y": 252.0,
+                    "width": 145.0,
+                    "height": 62.0
+                },
+                "region_attributes": {
+                    "label_id": "cow"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 58.0,
+                    "y": 202.0,
+                    "width": 183.0,
+                    "height": 93.0
+                },
+                "region_attributes": {
+                    "label_id": "cow"
+                }
+            }
+        ]
+    },
+    "2007_000452.jpg64563": {
+        "filename": "2007_000452.jpg",
+        "size": 64563,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 474.0,
+                    "y": 140.0,
+                    "width": 26.0,
+                    "height": 144.0
+                },
+                "region_attributes": {
+                    "label_id": "chair"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 50.0,
+                    "y": 121.0,
+                    "width": 245.0,
+                    "height": 217.0
+                },
+                "region_attributes": {
+                    "label_id": "sofa"
+                }
+            }
+        ]
+    },
+    "2007_000423.jpg90689": {
+        "filename": "2007_000423.jpg",
+        "size": 90689,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 367.0,
+                    "y": 92.0,
+                    "width": 94.0,
+                    "height": 223.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 51.0,
+                    "y": 80.0,
+                    "width": 71.0,
+                    "height": 186.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            }
+        ]
+    },
+    "2007_000392.jpg86466": {
+        "filename": "2007_000392.jpg",
+        "size": 86466,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 100.0,
+                    "y": 96.0,
+                    "width": 255.0,
+                    "height": 228.0
+                },
+                "region_attributes": {
+                    "label_id": "horse"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 198.0,
+                    "y": 58.0,
+                    "width": 88.0,
+                    "height": 139.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            }
+        ]
+    },
+    "2007_000364.jpg113514": {
+        "filename": "2007_000364.jpg",
+        "size": 113514,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 318.0,
+                    "y": 37.0,
+                    "width": 171.0,
+                    "height": 124.0
+                },
+                "region_attributes": {
+                    "label_id": "motorbike"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 54.0,
+                    "y": 25.0,
+                    "width": 400.0,
+                    "height": 290.0
+                },
+                "region_attributes": {
+                    "label_id": "motorbike"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 369.0,
+                    "y": 1.0,
+                    "width": 89.0,
+                    "height": 129.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            }
+        ]
+    },
+    "2007_000363.jpg53823": {
+        "filename": "2007_000363.jpg",
+        "size": 53823,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 161.0,
+                    "y": 122.0,
+                    "width": 339.0,
+                    "height": 211.0
+                },
+                "region_attributes": {
+                    "label_id": "bird"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 59.0,
+                    "y": 15.0,
+                    "width": 161.0,
+                    "height": 224.0
+                },
+                "region_attributes": {
+                    "label_id": "bird"
+                }
+            }
+        ]
+    },
+    "2007_000346.jpg84707": {
+        "filename": "2007_000346.jpg",
+        "size": 84707,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 137.0,
+                    "y": 78.0,
+                    "width": 360.0,
+                    "height": 297.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 72.0,
+                    "y": 209.0,
+                    "width": 39.0,
+                    "height": 50.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 124.0,
+                    "y": 107.0,
+                    "width": 106.0,
+                    "height": 236.0
+                },
+                "region_attributes": {
+                    "label_id": "bottle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 89.0,
+                    "y": 202.0,
+                    "width": 40.0,
+                    "height": 45.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            }
+        ]
+    },
+    "2007_000333.jpg126662": {
+        "filename": "2007_000333.jpg",
+        "size": 126662,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1.0,
+                    "y": 39.0,
+                    "width": 366.0,
+                    "height": 231.0
+                },
+                "region_attributes": {
+                    "label_id": "train"
+                }
+            }
+        ]
+    },
+    "2007_000332.jpg138168": {
+        "filename": "2007_000332.jpg",
+        "size": 138168,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 54.0,
+                    "y": 50.0,
+                    "width": 231.0,
+                    "height": 212.0
+                },
+                "region_attributes": {
+                    "label_id": "horse"
+                }
+            }
+        ]
+    },
+    "2007_000323.jpg66710": {
+        "filename": "2007_000323.jpg",
+        "size": 66710,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 277.0,
+                    "y": 3.0,
+                    "width": 223.0,
+                    "height": 372.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 12.0,
+                    "y": 3.0,
+                    "width": 293.0,
+                    "height": 372.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            }
+        ]
+    },
+    "2007_000272.jpg55069": {
+        "filename": "2007_000272.jpg",
+        "size": 55069,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 25.0,
+                    "y": 71.0,
+                    "width": 279.0,
+                    "height": 429.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            }
+        ]
+    },
+    "2007_000256.jpg67039": {
+        "filename": "2007_000256.jpg",
+        "size": 67039,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 8.0,
+                    "y": 96.0,
+                    "width": 483.0,
+                    "height": 136.0
+                },
+                "region_attributes": {
+                    "label_id": "aeroplane"
+                }
+            }
+        ]
+    },
+    "2007_000250.jpg68708": {
+        "filename": "2007_000250.jpg",
+        "size": 68708,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 97.0,
+                    "y": 124.0,
+                    "width": 53.0,
+                    "height": 173.0
+                },
+                "region_attributes": {
+                    "label_id": "bottle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1.0,
+                    "y": 170.0,
+                    "width": 473.0,
+                    "height": 205.0
+                },
+                "region_attributes": {
+                    "label_id": "diningtable"
+                }
+            }
+        ]
+    },
+    "2007_000243.jpg23509": {
+        "filename": "2007_000243.jpg",
+        "size": 23509,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 181.0,
+                    "y": 127.0,
+                    "width": 93.0,
+                    "height": 66.0
+                },
+                "region_attributes": {
+                    "label_id": "aeroplane"
+                }
+            }
+        ]
+    },
+    "2007_000241.jpg81999": {
+        "filename": "2007_000241.jpg",
+        "size": 81999,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 246.0,
+                    "y": 134.0,
+                    "width": 102.0,
+                    "height": 83.0
+                },
+                "region_attributes": {
+                    "label_id": "boat"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 60.0,
+                    "y": 109.0,
+                    "width": 82.0,
+                    "height": 104.0
+                },
+                "region_attributes": {
+                    "label_id": "boat"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 356.0,
+                    "y": 183.0,
+                    "width": 144.0,
+                    "height": 97.0
+                },
+                "region_attributes": {
+                    "label_id": "boat"
+                }
+            }
+        ]
+    },
+    "2007_000187.jpg89384": {
+        "filename": "2007_000187.jpg",
+        "size": 89384,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1.0,
+                    "y": 95.0,
+                    "width": 239.0,
+                    "height": 241.0
+                },
+                "region_attributes": {
+                    "label_id": "tvmonitor"
+                }
+            }
+        ]
+    },
+    "2007_000175.jpg134050": {
+        "filename": "2007_000175.jpg",
+        "size": 134050,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 25.0,
+                    "y": 34.0,
+                    "width": 394.0,
+                    "height": 237.0
+                },
+                "region_attributes": {
+                    "label_id": "sheep"
+                }
+            }
+        ]
+    },
+    "2007_000170.jpg77994": {
+        "filename": "2007_000170.jpg",
+        "size": 77994,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 3.0,
+                    "y": 91.0,
+                    "width": 40.0,
+                    "height": 115.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 4.0,
+                    "y": 28.0,
+                    "width": 457.0,
+                    "height": 344.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 426.0,
+                    "y": 157.0,
+                    "width": 17.0,
+                    "height": 38.0
+                },
+                "region_attributes": {
+                    "label_id": "bottle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 324.0,
+                    "y": 148.0,
+                    "width": 28.0,
+                    "height": 58.0
+                },
+                "region_attributes": {
+                    "label_id": "bottle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 41.0,
+                    "y": 114.0,
+                    "width": 32.0,
+                    "height": 67.0
+                },
+                "region_attributes": {
+                    "label_id": "bottle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 87.0,
+                    "y": 100.0,
+                    "width": 22.0,
+                    "height": 65.0
+                },
+                "region_attributes": {
+                    "label_id": "bottle"
+                }
+            }
+        ]
+    },
+    "2007_000129.jpg105670": {
+        "filename": "2007_000129.jpg",
+        "size": 105670,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 70.0,
+                    "y": 202.0,
+                    "width": 185.0,
+                    "height": 298.0
+                },
+                "region_attributes": {
+                    "label_id": "bicycle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 252.0,
+                    "y": 19.0,
+                    "width": 82.0,
+                    "height": 468.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 74.0,
+                    "y": 1.0,
+                    "width": 198.0,
+                    "height": 461.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1.0,
+                    "y": 1.0,
+                    "width": 65.0,
+                    "height": 362.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1.0,
+                    "y": 144.0,
+                    "width": 66.0,
+                    "height": 292.0
+                },
+                "region_attributes": {
+                    "label_id": "bicycle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 251.0,
+                    "y": 242.0,
+                    "width": 83.0,
+                    "height": 258.0
+                },
+                "region_attributes": {
+                    "label_id": "bicycle"
+                }
+            }
+        ]
+    },
+    "2007_000123.jpg79773": {
+        "filename": "2007_000123.jpg",
+        "size": 79773,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1.0,
+                    "y": 26.0,
+                    "width": 357.0,
+                    "height": 314.0
+                },
+                "region_attributes": {
+                    "label_id": "train"
+                }
+            }
+        ]
+    },
+    "2007_000121.jpg79911": {
+        "filename": "2007_000121.jpg",
+        "size": 79911,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 251.0,
+                    "y": 28.0,
+                    "width": 224.0,
+                    "height": 239.0
+                },
+                "region_attributes": {
+                    "label_id": "tvmonitor"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 22.0,
+                    "y": 28.0,
+                    "width": 229.0,
+                    "height": 245.0
+                },
+                "region_attributes": {
+                    "label_id": "tvmonitor"
+                }
+            }
+        ]
+    },
+    "2007_000068.jpg101159": {
+        "filename": "2007_000068.jpg",
+        "size": 101159,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 27.0,
+                    "y": 45.0,
+                    "width": 239.0,
+                    "height": 330.0
+                },
+                "region_attributes": {
+                    "label_id": "bird"
+                }
+            }
+        ]
+    },
+    "2007_000063.jpg126171": {
+        "filename": "2007_000063.jpg",
+        "size": 126171,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 123.0,
+                    "y": 115.0,
+                    "width": 256.0,
+                    "height": 160.0
+                },
+                "region_attributes": {
+                    "label_id": "dog"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 75.0,
+                    "y": 1.0,
+                    "width": 353.0,
+                    "height": 374.0
+                },
+                "region_attributes": {
+                    "label_id": "chair"
+                }
+            }
+        ]
+    },
+    "2007_000061.jpg73156": {
+        "filename": "2007_000061.jpg",
+        "size": 73156,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 184.0,
+                    "y": 214.0,
+                    "width": 97.0,
+                    "height": 38.0
+                },
+                "region_attributes": {
+                    "label_id": "boat"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 274.0,
+                    "y": 11.0,
+                    "width": 163.0,
+                    "height": 268.0
+                },
+                "region_attributes": {
+                    "label_id": "boat"
+                }
+            }
+        ]
+    },
+    "2007_000042.jpg82847": {
+        "filename": "2007_000042.jpg",
+        "size": 82847,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1.0,
+                    "y": 36.0,
+                    "width": 234.0,
+                    "height": 263.0
+                },
+                "region_attributes": {
+                    "label_id": "train"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 263.0,
+                    "y": 32.0,
+                    "width": 237.0,
+                    "height": 263.0
+                },
+                "region_attributes": {
+                    "label_id": "train"
+                }
+            }
+        ]
+    },
+    "2007_000039.jpg64668": {
+        "filename": "2007_000039.jpg",
+        "size": 64668,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 156.0,
+                    "y": 89.0,
+                    "width": 188.0,
+                    "height": 190.0
+                },
+                "region_attributes": {
+                    "label_id": "tvmonitor"
+                }
+            }
+        ]
+    },
+    "2007_000033.jpg71205": {
+        "filename": "2007_000033.jpg",
+        "size": 71205,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 325.0,
+                    "y": 188.0,
+                    "width": 86.0,
+                    "height": 35.0
+                },
+                "region_attributes": {
+                    "label_id": "aeroplane"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 9.0,
+                    "y": 107.0,
+                    "width": 490.0,
+                    "height": 156.0
+                },
+                "region_attributes": {
+                    "label_id": "aeroplane"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 421.0,
+                    "y": 200.0,
+                    "width": 61.0,
+                    "height": 26.0
+                },
+                "region_attributes": {
+                    "label_id": "aeroplane"
+                }
+            }
+        ]
+    },
+    "2007_000032.jpg54757": {
+        "filename": "2007_000032.jpg",
+        "size": 54757,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 26.0,
+                    "y": 189.0,
+                    "width": 18.0,
+                    "height": 49.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 133.0,
+                    "y": 88.0,
+                    "width": 64.0,
+                    "height": 35.0
+                },
+                "region_attributes": {
+                    "label_id": "aeroplane"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 104.0,
+                    "y": 78.0,
+                    "width": 271.0,
+                    "height": 105.0
+                },
+                "region_attributes": {
+                    "label_id": "aeroplane"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 195.0,
+                    "y": 180.0,
+                    "width": 18.0,
+                    "height": 49.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            }
+        ]
+    },
+    "2007_000027.jpg145493": {
+        "filename": "2007_000027.jpg",
+        "size": 145493,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 174.0,
+                    "y": 101.0,
+                    "width": 175.0,
+                    "height": 250.0
+                },
+                "region_attributes": {
+                    "label_id": "person"
+                }
+            }
+        ]
+    }
+}
